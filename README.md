@@ -8,8 +8,7 @@
 
 - 🌱 I'm currently learning **我目前正在学习agent，微服务，k8s**
 
-- 💬 Ask me about **你好，我是藻子哥。热爱编程、游戏、音乐、旅行，希望能成为一名优秀的开发者
-PS5白金爱好者，也玩Switch**
+- 💬 Ask me about **你好，我是藻子哥。热爱编程、游戏、音乐、旅行，希望能成为一名优秀的开发者。PS5白金爱好者，也玩Switch**
 
 - 📫 How to reach me **lz790929231@163.com**
 
