@@ -2,17 +2,9 @@
 
 ### A passionate Go developer
 
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent"> </div> -->
+<div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent"> </div> 
 
-<div style="overflow: hidden;"> <!-- 解决浮动塌陷 -->
-  <div style="float: left; width: 48%; margin-right: 2%;">
-    <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai" alt="Lecoq Metrics" style="max-width: 100%;">
-  </div>
-  <div style="float: right; width: 48%; margin-left: 2%;">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent" alt="GitHub Stats" style="max-width: 100%;">
-  </div>
-</div>
 
 - 🌱 I'm currently learning **我目前正在学习agent，微服务，k8s**
 
