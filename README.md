@@ -1,26 +1,84 @@
-# Hi 👋, I'm Zackisliuzao
+# Hi 👋 I'm Zackisliuzao (藻子哥)
 
-### A passionate Go developer
+**Go Developer | Backend Engineer | Cloud Native & Agent Explorer**
 
-<div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
+> 热爱编程、游戏、音乐与旅行  
+> 目标：成为一名 **技术扎实 + 有产品意识** 的工程师  
+> 🎮 PS5 白金爱好者 | Nintendo Switch 玩家
 
+---
 
-- 🌱 I'm currently learning **我目前正在学习agent，微服务，k8s**
+## 🚀 About Me
 
-- 💬 Ask me about **你好，我是藻子哥。热爱编程、游戏、音乐、旅行，希望能成为一名优秀的开发者。PS5白金爱好者，也玩Switch**
+- 🌱 Currently learning: **Agent / Microservices / Kubernetes**
+- 💬 Ask me about: **Go / Backend / Distributed Systems**
+- 📝 Blog: [CSDN 技术博客](https://blog.csdn.net/qq_40527560)
+- 📫 Email: **lz790929231@163.com**
 
-- 📫 How to reach me **lz790929231@163.com**
+---
 
-- 📝 I regularly write articles on **[https://blog.csdn.net/qq_40527560](https://blog.csdn.net/qq_40527560)**
+## 📊 GitHub Metrics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Zackisliuzao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zackisliuzao" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zackisliuzao&hide_title=true&hide_border=true&layout=compact&langs_count=6" height="150"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackisliuzao&theme=transparent" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6"> </div> 
-<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent"> </div> 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zackisliuzao&" alt="Zackisliuzao" /></p>
+---
 
+## 🧠 Tech Stack
+
+### 🔹 Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,nodejs,express,fastapi" />
+</p>
+
+### 🔹 Cloud Native & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,grafana" />
+</p>
+
+### 🔹 Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,rabbitmq" />
+</p>
+
+### 🔹 AI / Data / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,graphql" />
+</p>
+
+### 🔹 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,anaconda,jupyter" />
+  <img src="https://cdn.simpleicons.org/ollama" width="40"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p>
+  <a href="https://github.com/Zackisliuzao">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+⭐️ *If you like my projects, feel free to follow or star!*  
