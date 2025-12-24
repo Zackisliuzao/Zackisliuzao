@@ -2,8 +2,17 @@
 
 ### A passionate Go developer
 
-<div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent"> </div>
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent"> </div> -->
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="text-align: left;">
+    <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai" alt="Lecoq Metrics" style="max-width: 45%;">
+  </div>
+  <div style="text-align: right;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent" alt="GitHub Stats" style="max-width: 45%;">
+  </div>
+</div>
 
 - 🌱 I'm currently learning **我目前正在学习agent，微服务，k8s**
 
