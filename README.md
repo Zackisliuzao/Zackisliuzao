@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackisliuzao" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackisliuzao" alt="Zackisliuzao" />
 </p>
 
 ---
