@@ -28,10 +28,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zackisliuzao&hide_title=true&hide_border=true&layout=compact&langs_count=6" height="150"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackisliuzao" alt="Zackisliuzao" />
-</p>
-
 ---
 
 ## 🧠 Tech Stack
