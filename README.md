@@ -2,6 +2,8 @@
 
 ### A passionate Go developer
 
+<div align="center"> <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 - 🌱 I'm currently learning **我目前正在学习agent，微服务，k8s**
 
 - 💬 Ask me about **你好，我是藻子哥。热爱编程、游戏、音乐、旅行，希望能成为一名优秀的开发者。PS5白金爱好者，也玩Switch**
