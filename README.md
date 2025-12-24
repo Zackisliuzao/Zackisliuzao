@@ -1,4 +1,4 @@
-# Hi 👋 I'm Zackisliuzao (藻子哥)
+  # Hi 👋 I'm Zackisliuzao (藻子哥)
 
 **Go Developer | Backend Engineer | Cloud Native & Agent Explorer**
 
@@ -61,7 +61,7 @@
 
 ### 🔹 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,anaconda,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,anaconda" />
   <img src="https://cdn.simpleicons.org/ollama" width="40"/>
 </p>
 
