@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+我叫LiuZao，热爱编程、摄影、读书、旅行。
+热爱计算机科学，希望能成为一名优秀的开发者
 <div align="center"> <img src="https://metrics.lecoq.io/zackisliuzao?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
