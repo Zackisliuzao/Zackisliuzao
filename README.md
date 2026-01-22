@@ -19,9 +19,9 @@
 
 ## 📊 GitHub Metrics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://metrics.lecoq.io/Zackisliuzao?template=classic&config.timezone=Asia%2FShanghai" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Zackisliuzao&show_icons=true&theme=transparent" height="150"/>
